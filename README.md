@@ -23,7 +23,7 @@ A Streamlit-based web application that leverages Firecrawl to scrape multiple we
    ```
 2. Install dependencies:
    ```bash
-   pip install streamlit firecrawl pydantic
+   pip install streamlit firecrawl-py pydantic
    ```
 3. Ensure you have a valid Firecrawl API key (sign up at [Firecrawl](https://www.firecrawl.dev/) if needed).
 
@@ -67,5 +67,5 @@ https://anothersite.com
 ## Contributing
 Feel free to fork this repository, submit pull requests, or open issues for bugs and feature requests. Contributions to enhance functionality (e.g., more field types, export options) are welcome!
 
-# Screenshot
+## Screenshot
 ![Screenshot 2025-03-06 090354](https://github.com/user-attachments/assets/480cf4ec-63ae-4bf1-b24d-8ed0fc1dbd77)
